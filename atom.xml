@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>当一个安静的胖码农</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.zww1997.cn/"/>
+  <updated>2017-12-08T09:24:22.525Z</updated>
+  <id>http://www.zww1997.cn/</id>
+  
+  <author>
+    <name>GantleLeo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>部署个人博客</title>
+    <link href="http://www.zww1997.cn/2017/12/08/%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://www.zww1997.cn/2017/12/08/部署个人博客/</id>
+    <published>2017-12-08T09:20:08.000Z</published>
+    <updated>2017-12-08T09:24:22.525Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="使用hexo-github搭建个人博客"><a href="#使用hexo-github搭建个人博客" class="headerlink" title="使用hexo+github搭建个人博客"></a>使用hexo+github搭建个人博客</h2><h3 id="安装Git和Nodejs，使用Git-Bash，然后输入下面这条命令来安装Hexo："><a href="#安装Git和Nodejs，使用Git-Bash，然后输入下面这条命令来安装Hexo：" class="headerlink" title="安装Git和Nodejs，使用Git Bash，然后输入下面这条命令来安装Hexo："></a>安装Git和Nodejs，使用Git Bash，然后输入下面这条命令来安装Hexo：</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-cli -g</span><br></pre></td></tr></table></figure><h2 id="新建博客"><a href="#新建博客" class="headerlink" title="新建博客"></a>新建博客</h2><h3 id="在想要的盘里新建如hexo的文件夹，使用Git-Bash进入这个文件夹，然后将它初始化为我们的博客文件目录"><a href="#在想要的盘里新建如hexo的文件夹，使用Git-Bash进入这个文件夹，然后将它初始化为我们的博客文件目录" class="headerlink" title="在想要的盘里新建如hexo的文件夹，使用Git  Bash进入这个文件夹，然后将它初始化为我们的博客文件目录"></a>在想要的盘里新建如hexo的文件夹，使用Git  Bash进入这个文件夹，然后将它初始化为我们的博客文件目录</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> e:hexo</span><br><span class="line">$ hexo init</span><br></pre></td></tr></table></figure><h3 id="这里我们需要在执行一次"><a href="#这里我们需要在执行一次" class="headerlink" title="这里我们需要在执行一次"></a>这里我们需要在执行一次</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;使用hexo-github搭建个人博客&quot;&gt;&lt;a href=&quot;#使用hexo-github搭建个人博客&quot; class=&quot;headerlink&quot; title=&quot;使用hexo+github搭建个人博客&quot;&gt;&lt;/a&gt;使用hexo+github搭建个人博客&lt;/h2&gt;&lt;h3 i
+      
+    
+    </summary>
+    
+      <category term="Hexo教程" scheme="http://www.zww1997.cn/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="个人博客" scheme="http://www.zww1997.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="标签2" scheme="http://www.zww1997.cn/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+  </entry>
+  
+</feed>
