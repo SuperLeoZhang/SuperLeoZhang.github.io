@@ -27,10 +27,29 @@
     
     <summary type="html">
     
-      
-      
-        &lt;h2 id=&quot;使用hexo-github搭建个人博客&quot;&gt;&lt;a href=&quot;#使用hexo-github搭建个人博客&quot; class=&quot;headerlink&quot; title=&quot;使用hexo+github搭建个人博客&quot;&gt;&lt;/a&gt;使用hexo+github搭建个人博客&lt;/h2&gt;&lt;h3 i
-      
+      使用hexo+github搭建个人博客
+安装Git和Nodejs，使用Git Bash，然后输入下面这条命令来安装Hexo：
+1
+
+
+$ npm install hexo-cli -g
+
+
+新建博客
+在想要的盘里新建如hexo的文件夹，使用Git Bash进入这个文件夹，然后将它初始化为我们的博客文件目录
+1
+2
+
+
+$ cd e:hexo
+$ hexo init
+
+
+这里我们需要在执行一次
+1
+
+
+$ npm install
     
     </summary>
     
