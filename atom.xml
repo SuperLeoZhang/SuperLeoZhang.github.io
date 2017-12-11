@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.zww1997.cn/"/>
-  <updated>2017-12-11T06:48:10.985Z</updated>
+  <updated>2017-12-11T06:51:38.628Z</updated>
   <id>http://www.zww1997.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.zww1997.cn/2017/12/11/%E4%B8%80%E4%B8%87%E6%AC%A1%E6%82%B2%E4%BC%A4/"/>
     <id>http://www.zww1997.cn/2017/12/11/一万次悲伤/</id>
     <published>2017-12-11T06:47:50.000Z</published>
-    <updated>2017-12-11T06:48:10.985Z</updated>
+    <updated>2017-12-11T06:51:38.628Z</updated>
     
     <content type="html"><![CDATA[<p>Oh honey<br>我脑海里全都是你<br>Oh 无法抗拒的心悸<br>难以呼吸<br>Tonight<br>是否又要错过一个夜晚<br>是否还要掩饰最后的期待<br>Oh tonight<br>一万次悲伤<br>依然会有Dream<br>我一直在最温暖的地方等你<br>似乎只能这样 仅有一个方向<br>已不能改变<br>每一颗眼泪是一万道光<br>最昏暗的地方也变得明亮<br>我奔涌的暖流 寻找你的海洋<br>我注定这样<br>Oh honey<br>你目光里充满忧郁<br>就像经历一片废墟 难以逃避<br>Tonight<br>是否还要错过这个夜晚<br>是否还要熄灭所有的期待<br>Oh tonight<br>一万次悲伤<br>依然会有Dream<br>我一直在最后的地方等你<br>似乎只能这样<br>仅有一个方向<br>已不能改变<br>每一颗眼泪是一万道光<br>最昏暗的地方也变得明亮<br>我奔涌的暖流 寻找你的海洋<br>我注定这样<br>一万次悲伤<br>依然会有Dream<br>我一直在最后的地方等你<br>似乎只能这样<br>仅有一个方向<br>已不能改变<br>每一颗眼泪是一万道光<br>最昏暗的地方也变得明亮<br>我奔涌的暖流 寻找你的海洋<br>我注定这样<br>Oh honey<br>我脑海里全都是你<br>Oh 无法抗拒的心悸<br>难以呼吸</p>]]></content>
     
@@ -34,6 +34,12 @@ tonight 一万次悲伤 依然会有Dream 我一直在最后的地方等你 似�
     
     </summary>
     
+      <category term="歌词" scheme="http://www.zww1997.cn/categories/%E6%AD%8C%E8%AF%8D/"/>
+    
+    
+      <category term="一万次悲伤" scheme="http://www.zww1997.cn/tags/%E4%B8%80%E4%B8%87%E6%AC%A1%E6%82%B2%E4%BC%A4/"/>
+    
+      <category term="歌词" scheme="http://www.zww1997.cn/tags/%E6%AD%8C%E8%AF%8D/"/>
     
   </entry>
   
@@ -42,7 +48,7 @@ tonight 一万次悲伤 依然会有Dream 我一直在最后的地方等你 似�
     <link href="http://www.zww1997.cn/2017/12/08/%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://www.zww1997.cn/2017/12/08/部署个人博客/</id>
     <published>2017-12-08T09:20:08.000Z</published>
-    <updated>2017-12-11T06:15:15.618Z</updated>
+    <updated>2017-12-11T06:51:40.206Z</updated>
     
     <content type="html"><![CDATA[<h2 id="使用hexo-github搭建个人博客"><a href="#使用hexo-github搭建个人博客" class="headerlink" title="使用hexo+github搭建个人博客"></a>使用hexo+github搭建个人博客</h2><h3 id="安装Git和Nodejs，使用Git-Bash，然后输入下面这条命令来安装Hexo："><a href="#安装Git和Nodejs，使用Git-Bash，然后输入下面这条命令来安装Hexo：" class="headerlink" title="安装Git和Nodejs，使用Git Bash，然后输入下面这条命令来安装Hexo："></a>安装Git和Nodejs，使用Git Bash，然后输入下面这条命令来安装Hexo：</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-cli -g</span><br></pre></td></tr></table></figure><h2 id="新建博客"><a href="#新建博客" class="headerlink" title="新建博客"></a>新建博客</h2><h3 id="在想要的盘里新建如hexo的文件夹，使用Git-Bash进入这个文件夹，然后将它初始化为我们的博客文件目录"><a href="#在想要的盘里新建如hexo的文件夹，使用Git-Bash进入这个文件夹，然后将它初始化为我们的博客文件目录" class="headerlink" title="在想要的盘里新建如hexo的文件夹，使用Git  Bash进入这个文件夹，然后将它初始化为我们的博客文件目录"></a>在想要的盘里新建如hexo的文件夹，使用Git  Bash进入这个文件夹，然后将它初始化为我们的博客文件目录</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> e:hexo</span><br><span class="line">$ hexo init</span><br></pre></td></tr></table></figure><h3 id="这里我们需要在执行一次"><a href="#这里我们需要在执行一次" class="headerlink" title="这里我们需要在执行一次"></a>这里我们需要在执行一次</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install</span><br></pre></td></tr></table></figure>]]></content>
     
