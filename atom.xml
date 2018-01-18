@@ -27,10 +27,15 @@
     
     <summary type="html">
     
-      现在ES8都已经在2017年6月底发布，许多的前端开发者都还没有开始用到ES6。我来写一写我是怎么学习ES6的吧！ ES6有许多的新特性，比如： *
-Block-Scoped Constructs Let and Const （块作用域构造Let and Const） * Default Parameters
-（默认参数） * Template Literals （模板字符串） * Multi-line Strings （多行字符串） * Arrow
-Functions （箭头函数） * Enhanced Object Literals （增强的对象文本） * Promise
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;现在ES8都已经在2017年6月底发布，许多的前端开发者都还没有开始用到ES6。我来写一写我是怎么学习ES6的吧！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ES6有许多的新特性，比如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Block-Scoped Cons
+      
     
     </summary>
     
@@ -66,10 +71,10 @@ Functions （箭头函数） * Enhanced Object Literals （增强的对象文本
     
     <summary type="html">
     
-      Oh honey 我脑海里全都是你 Oh 无法抗拒的心悸 难以呼吸 Tonight 是否又要错过一个夜晚 是否还要掩饰最后的期待 Oh tonight
-一万次悲伤 依然会有Dream 我一直在最温暖的地方等你 似乎只能这样 仅有一个方向 已不能改变 每一颗眼泪是一万道光 最昏暗的地方也变得明亮 我奔涌的暖流
-寻找你的海洋 我注定这样 Oh honey 你目光里充满忧郁 就像经历一片废墟 难以逃避 Tonight 是否还要错过这个夜晚 是否还要熄灭所有的期待 Oh
-tonight 一万次悲伤 依然会有Dream 我一直在最后的地方等你 似乎只能这样 仅有一个方向 已不能改变 每一颗眼泪是一万道光
+      
+      
+        &lt;p&gt;Oh honey&lt;br&gt;我脑海里全都是你&lt;br&gt;Oh 无法抗拒的心悸&lt;br&gt;难以呼吸&lt;br&gt;Tonight&lt;br&gt;是否又要错过一个夜晚&lt;br&gt;是否还要掩饰最后的期待&lt;br&gt;Oh tonight&lt;br&gt;一万次悲伤&lt;br&gt;依然会有Dream&lt;br&gt;我一直在最温暖的地方等你&lt;br
+      
     
     </summary>
     
@@ -93,9 +98,10 @@ tonight 一万次悲伤 依然会有Dream 我一直在最后的地方等你 似�
     
     <summary type="html">
     
-      使用hexo+github搭建个人博客 安装Git和Nodejs，使用Git Bash，然后输入下面这条命令来安装Hexo： 1 $ npm install
-hexo-cli -g 新建博客 在想要的盘里新建如hexo的文件夹，使用Git Bash进入这个文件夹，然后将它初始化为我们的博客文件目录 1 2 $ cd
-e:hexo $ hexo init 这里我们需要在执行一次 1 $ npm install
+      
+      
+        &lt;h2 id=&quot;使用hexo-github搭建个人博客&quot;&gt;&lt;a href=&quot;#使用hexo-github搭建个人博客&quot; class=&quot;headerlink&quot; title=&quot;使用hexo+github搭建个人博客&quot;&gt;&lt;/a&gt;使用hexo+github搭建个人博客&lt;/h2&gt;&lt;h3 i
+      
     
     </summary>
     
